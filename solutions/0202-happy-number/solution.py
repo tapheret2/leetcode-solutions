@@ -1,0 +1,24 @@
+# Problem: 202. Happy Number
+# Difficulty: Easy
+# Language: Python
+# Runtime: 0 ms
+# Memory: 17.8 MB
+# Link: https://leetcode.com/problems/happy-number/
+
+class Solution:
+    def isHappy(self, n: int) -> bool:
+        def get_next(num):
+            """Helper function to calculate the sum of the squares of the digits."""
+            total_sum = 0
+            while num > 0:
+                digit = num % 10
+                total_sum += digit * digit
+                num = num // 10
+            return total_sum
+
+        seen_numbers = set()
+        while n != 1 and n not in seen_numbers:
+            seen_numbers.add(n)
+            n = get_next(n)
+
+        return n == 1
