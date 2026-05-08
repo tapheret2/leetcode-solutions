@@ -2,12 +2,12 @@
 
 ![Total](https://img.shields.io/badge/Solved-54-blue?style=for-the-badge) ![Easy](https://img.shields.io/badge/Easy-49-00b8a3?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-5-ffc01e?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge)
 
-> Auto-synced from [LeetCode](https://leetcode.com/u/aCblutS4ZL/) • Last updated: 2026-04-29 23:48
+> Auto-synced from [LeetCode](https://leetcode.com/u/aCblutS4ZL/) • Last updated: 2026-05-08 19:41
 
 ## 👤 Profile
 
 - **Username:** [aCblutS4ZL](https://leetcode.com/u/aCblutS4ZL/) (Tap)
-- **Ranking:** 2574859
+- **Ranking:** 2357237
 
 ## 📊 Statistics
 
@@ -18,7 +18,7 @@
 | 🔴 Hard   | 0  |
 | **Total**  | **54** |
 
-**Languages used:** cpp, javascript, mssql, mysql, python3
+**Languages used:** cpp, javascript, mysql, python3
 
 ## 📝 Solutions
 
@@ -40,7 +40,7 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | C++ | Array, Bit Manipulation |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | 🟡 Medium | Python | Two Pointers, String |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | 🟡 Medium | Python | Hash Table, Math, String |
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | 🟢 Easy | MS SQL, MySQL | Database |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | 🟢 Easy | MySQL | Database |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | 🟢 Easy | MySQL | Database |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 Easy | MySQL | Database |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | MySQL | Database |
