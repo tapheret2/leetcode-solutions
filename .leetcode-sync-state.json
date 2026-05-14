@@ -1,5 +1,5 @@
 {
-  "lastSyncAt": "2026-05-14T05:13:27.495458+00:00",
+  "lastSyncAt": "2026-05-14T05:23:27.672354+00:00",
   "syncedSubmissions": {
     "1991148398": {
       "frontendId": "0197",
@@ -161,6 +161,13 @@
       "submittedAt": "2026-05-14T05:12:42+00:00",
       "syncedAt": "2026-05-14T05:13:27.488797+00:00",
       "titleSlug": "big-countries"
+    },
+    "2002669535": {
+      "frontendId": "0596",
+      "language": "MySQL",
+      "submittedAt": "2026-05-14T05:22:24+00:00",
+      "syncedAt": "2026-05-14T05:23:27.669356+00:00",
+      "titleSlug": "classes-with-at-least-5-students"
     }
   },
   "version": 1

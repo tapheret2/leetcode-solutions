@@ -1,0 +1,22 @@
+{
+  "difficulty": "Easy",
+  "frontendId": "0596",
+  "language": "MySQL",
+  "leetcodeUrl": "https://leetcode.com/problems/classes-with-at-least-5-students/",
+  "memory": "0B",
+  "rawFrontendId": "596",
+  "runtime": "345 ms",
+  "status": "Accepted",
+  "submissionId": "2002669535",
+  "submissionUrl": "https://leetcode.com/submissions/detail/2002669535/",
+  "submittedAt": "2026-05-14T05:22:24+00:00",
+  "syncedAt": "2026-05-14T05:23:27.669356+00:00",
+  "title": "Classes With at Least 5 Students",
+  "titleSlug": "classes-with-at-least-5-students",
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ]
+}
