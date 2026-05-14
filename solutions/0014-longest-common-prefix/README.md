@@ -1,7 +1,7 @@
 # 0014. Longest Common Prefix
 
 - Difficulty: Easy
-- Language: Python3
+- Language: Python
 - Runtime: 0 ms
 - Memory: 19.3 MB
 - Last accepted: 2026-04-29T16:31:58+00:00

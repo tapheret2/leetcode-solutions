@@ -1,7 +1,7 @@
 {
   "difficulty": "Easy",
   "frontendId": "0020",
-  "language": "Python3",
+  "language": "Python",
   "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
   "memory": "19.2 MB",
   "rawFrontendId": "20",
@@ -10,7 +10,7 @@
   "submissionId": "1991169769",
   "submissionUrl": "https://leetcode.com/submissions/detail/1991169769/",
   "submittedAt": "2026-04-29T16:32:13+00:00",
-  "syncedAt": "2026-05-14T04:46:52.186395+00:00",
+  "syncedAt": "2026-05-14T04:55:47.333002+00:00",
   "title": "Valid Parentheses",
   "titleSlug": "valid-parentheses",
   "topicTags": [
