@@ -24,7 +24,7 @@ Each problem gets one folder. If the same problem is accepted in multiple langua
 | JavaScript | 18 |
 | Python | 14 |
 | MySQL | 7 |
-| ms-sql-server | 1 |
+| MS SQL Server | 1 |
 
 ## Solutions
 
@@ -46,7 +46,7 @@ Each problem gets one folder. If the same problem is accepted in multiple langua
 | 136 | [Single Number](solutions/0136-single-number) | Easy | C++ | Array, Bit Manipulation |
 | 165 | [Compare Version Numbers](solutions/0165-compare-version-numbers) | Medium | Python | Two Pointers, String |
 | 166 | [Fraction to Recurring Decimal](solutions/0166-fraction-to-recurring-decimal) | Medium | Python | Hash Table, Math, String |
-| 175 | [Combine Two Tables](solutions/0175-combine-two-tables) | Easy | ms-sql-server | Database |
+| 175 | [Combine Two Tables](solutions/0175-combine-two-tables) | Easy | MS SQL Server | Database |
 | 181 | [Employees Earning More Than Their Managers](solutions/0181-employees-earning-more-than-their-managers) | Easy | MySQL | Database |
 | 182 | [Duplicate Emails](solutions/0182-duplicate-emails) | Easy | MySQL | Database |
 | 183 | [Customers Who Never Order](solutions/0183-customers-who-never-order) | Easy | MySQL | Database |
