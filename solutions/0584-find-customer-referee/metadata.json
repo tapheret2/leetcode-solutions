@@ -1,0 +1,22 @@
+{
+  "difficulty": "Easy",
+  "frontendId": "0584",
+  "language": "MySQL",
+  "leetcodeUrl": "https://leetcode.com/problems/find-customer-referee/",
+  "memory": "0B",
+  "rawFrontendId": "584",
+  "runtime": "544 ms",
+  "status": "Accepted",
+  "submissionId": "2002652407",
+  "submissionUrl": "https://leetcode.com/submissions/detail/2002652407/",
+  "submittedAt": "2026-05-14T05:00:17+00:00",
+  "syncedAt": "2026-05-14T05:03:27.447622+00:00",
+  "title": "Find Customer Referee",
+  "titleSlug": "find-customer-referee",
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ]
+}
