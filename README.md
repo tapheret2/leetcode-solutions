@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-![Solved](https://img.shields.io/badge/Solved-57-blue?style=for-the-badge) ![Easy](https://img.shields.io/badge/Easy-52-00b8a3?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-5-ffc01e?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge)
+![Solved](https://img.shields.io/badge/Solved-58-blue?style=for-the-badge) ![Easy](https://img.shields.io/badge/Easy-53-00b8a3?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-5-ffc01e?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge)
 
-Auto-synced from [LeetCode](https://leetcode.com/u/aCblutS4ZL/). Last updated: 2026-05-14 05:08 UTC.
+Auto-synced from [LeetCode](https://leetcode.com/u/aCblutS4ZL/). Last updated: 2026-05-14 05:13 UTC.
 
 Each problem gets one folder. If the same problem is accepted in multiple languages, the folder keeps multiple `solution.*` files. A newer accepted submission in the same language updates that language's solution file.
 
@@ -10,9 +10,9 @@ Each problem gets one folder. If the same problem is accepted in multiple langua
 
 | Metric | Count |
 |---|---:|
-| Problems solved | 57 |
-| Solution files | 61 |
-| Easy | 52 |
+| Problems solved | 58 |
+| Solution files | 62 |
+| Easy | 53 |
 | Medium | 5 |
 | Hard | 0 |
 
@@ -23,7 +23,7 @@ Each problem gets one folder. If the same problem is accepted in multiple langua
 | C++ | 19 |
 | JavaScript | 18 |
 | Python | 14 |
-| MySQL | 9 |
+| MySQL | 10 |
 | MS SQL Server | 1 |
 
 ## Solutions
@@ -64,6 +64,7 @@ Each problem gets one folder. If the same problem is accepted in multiple langua
 | 577 | [Employee Bonus](solutions/0577-employee-bonus) | Easy | MySQL | Database |
 | 584 | [Find Customer Referee](solutions/0584-find-customer-referee) | Easy | MySQL | Database |
 | 586 | [Customer Placing the Largest Number of Orders](solutions/0586-customer-placing-the-largest-number-of-orders) | Easy | MySQL | Database |
+| 595 | [Big Countries](solutions/0595-big-countries) | Easy | MySQL | Database |
 | 611 | [Valid Triangle Number](solutions/0611-valid-triangle-number) | Medium | Python | Array, Two Pointers, Binary Search, Greedy, Sorting |
 | 1342 | [Number of Steps to Reduce a Number to Zero](solutions/1342-number-of-steps-to-reduce-a-number-to-zero) | Easy | JavaScript | Math, Bit Manipulation |
 | 1431 | [Kids With the Greatest Number of Candies](solutions/1431-kids-with-the-greatest-number-of-candies) | Easy | JavaScript | Array |
