@@ -1,10 +1,3 @@
-// Problem: 13. Roman to Integer
-// Difficulty: Easy
-// Language: JavaScript
-// Runtime: 2 ms
-// Memory: 60.5 MB
-// Link: https://leetcode.com/problems/roman-to-integer/
-
 /**
  * @param {string} s
  * @return {number}

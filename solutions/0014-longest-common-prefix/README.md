@@ -1,9 +1,13 @@
-# 14. Longest Common Prefix
+# 0014. Longest Common Prefix
 
-🟢 **Easy** | [LeetCode Link](https://leetcode.com/problems/longest-common-prefix/)
+- Difficulty: Easy
+- Language: Python3
+- Runtime: 0 ms
+- Memory: 19.3 MB
+- Last accepted: 2026-04-29T16:31:58+00:00
+- LeetCode: https://leetcode.com/problems/longest-common-prefix/
+- Submission: https://leetcode.com/submissions/detail/1991169557/
 
-**Tags:** `Array`, `String`, `Trie`
+## Tags
 
-## Solutions
-
-- [solution.py](./solution.py)
+Array, String, Trie

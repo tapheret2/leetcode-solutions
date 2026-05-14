@@ -1,0 +1,30 @@
+{
+  "difficulty": "Easy",
+  "frontendId": "0014",
+  "language": "Python3",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+  "memory": "19.3 MB",
+  "rawFrontendId": "14",
+  "runtime": "0 ms",
+  "status": "Accepted",
+  "submissionId": "1991169557",
+  "submissionUrl": "https://leetcode.com/submissions/detail/1991169557/",
+  "submittedAt": "2026-04-29T16:31:58+00:00",
+  "syncedAt": "2026-05-14T04:46:51.864808+00:00",
+  "title": "Longest Common Prefix",
+  "titleSlug": "longest-common-prefix",
+  "topicTags": [
+    {
+      "name": "Array",
+      "slug": "array"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    },
+    {
+      "name": "Trie",
+      "slug": "trie"
+    }
+  ]
+}

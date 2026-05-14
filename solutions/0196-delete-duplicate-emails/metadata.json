@@ -1,0 +1,22 @@
+{
+  "difficulty": "Easy",
+  "frontendId": "0196",
+  "language": "MySQL",
+  "leetcodeUrl": "https://leetcode.com/problems/delete-duplicate-emails/",
+  "memory": "0B",
+  "rawFrontendId": "196",
+  "runtime": "601 ms",
+  "status": "Accepted",
+  "submissionId": "1991163736",
+  "submissionUrl": "https://leetcode.com/submissions/detail/1991163736/",
+  "submittedAt": "2026-04-29T16:24:35+00:00",
+  "syncedAt": "2026-05-14T04:46:46.666350+00:00",
+  "title": "Delete Duplicate Emails",
+  "titleSlug": "delete-duplicate-emails",
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "difficulty": "Easy",
+  "frontendId": "0013",
+  "language": "JavaScript",
+  "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+  "memory": "60.5 MB",
+  "rawFrontendId": "13",
+  "runtime": "2 ms",
+  "status": "Accepted",
+  "submissionId": "1991168963",
+  "submissionUrl": "https://leetcode.com/submissions/detail/1991168963/",
+  "submittedAt": "2026-04-29T16:31:13+00:00",
+  "syncedAt": "2026-05-14T04:46:51.353359+00:00",
+  "title": "Roman to Integer",
+  "titleSlug": "roman-to-integer",
+  "topicTags": [
+    {
+      "name": "Hash Table",
+      "slug": "hash-table"
+    },
+    {
+      "name": "Math",
+      "slug": "math"
+    },
+    {
+      "name": "String",
+      "slug": "string"
+    }
+  ]
+}

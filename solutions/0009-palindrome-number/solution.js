@@ -1,10 +1,3 @@
-// Problem: 9. Palindrome Number
-// Difficulty: Easy
-// Language: JavaScript
-// Runtime: 5 ms
-// Memory: 63 MB
-// Link: https://leetcode.com/problems/palindrome-number/
-
 /**
  * @param {number} x
  * @return {boolean}

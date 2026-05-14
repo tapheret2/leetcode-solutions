@@ -1,10 +1,13 @@
-# 9. Palindrome Number
+# 0009. Palindrome Number
 
-🟢 **Easy** | [LeetCode Link](https://leetcode.com/problems/palindrome-number/)
+- Difficulty: Easy
+- Language: JavaScript
+- Runtime: 5 ms
+- Memory: 63 MB
+- Last accepted: 2026-04-29T16:31:05+00:00
+- LeetCode: https://leetcode.com/problems/palindrome-number/
+- Submission: https://leetcode.com/submissions/detail/1991168843/
 
-**Tags:** `Math`
+## Tags
 
-## Solutions
-
-- [solution.cpp](./solution.cpp)
-- [solution.js](./solution.js)
+Math

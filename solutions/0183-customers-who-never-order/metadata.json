@@ -1,0 +1,22 @@
+{
+  "difficulty": "Easy",
+  "frontendId": "0183",
+  "language": "MySQL",
+  "leetcodeUrl": "https://leetcode.com/problems/customers-who-never-order/",
+  "memory": "0B",
+  "rawFrontendId": "183",
+  "runtime": "628 ms",
+  "status": "Accepted",
+  "submissionId": "1991163841",
+  "submissionUrl": "https://leetcode.com/submissions/detail/1991163841/",
+  "submittedAt": "2026-04-29T16:24:43+00:00",
+  "syncedAt": "2026-05-14T04:46:47.020106+00:00",
+  "title": "Customers Who Never Order",
+  "titleSlug": "customers-who-never-order",
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "difficulty": "Easy",
+  "frontendId": "0577",
+  "language": "MySQL",
+  "leetcodeUrl": "https://leetcode.com/problems/employee-bonus/",
+  "memory": "0B",
+  "rawFrontendId": "577",
+  "runtime": "1036 ms",
+  "status": "Accepted",
+  "submissionId": "2002611995",
+  "submissionUrl": "https://leetcode.com/submissions/detail/2002611995/",
+  "submittedAt": "2026-05-14T04:01:50+00:00",
+  "syncedAt": "2026-05-14T04:46:52.569761+00:00",
+  "title": "Employee Bonus",
+  "titleSlug": "employee-bonus",
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ]
+}

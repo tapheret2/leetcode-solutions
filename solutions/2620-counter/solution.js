@@ -1,10 +1,3 @@
-// Problem: 2620. Counter
-// Difficulty: Easy
-// Language: JavaScript
-// Runtime: 46 ms
-// Memory: 51.5 MB
-// Link: https://leetcode.com/problems/counter/
-
 /**
  * @param {number} n
  * @return {Function} counter

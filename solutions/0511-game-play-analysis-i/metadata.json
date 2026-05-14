@@ -1,0 +1,22 @@
+{
+  "difficulty": "Easy",
+  "frontendId": "0511",
+  "language": "MySQL",
+  "leetcodeUrl": "https://leetcode.com/problems/game-play-analysis-i/",
+  "memory": "0B",
+  "rawFrontendId": "511",
+  "runtime": "513 ms",
+  "status": "Accepted",
+  "submissionId": "1991162447",
+  "submissionUrl": "https://leetcode.com/submissions/detail/1991162447/",
+  "submittedAt": "2026-04-29T16:23:02+00:00",
+  "syncedAt": "2026-05-14T04:46:45.908353+00:00",
+  "title": "Game Play Analysis I",
+  "titleSlug": "game-play-analysis-i",
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ]
+}

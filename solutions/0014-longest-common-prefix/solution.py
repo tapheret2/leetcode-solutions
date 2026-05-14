@@ -1,10 +1,3 @@
-# Problem: 14. Longest Common Prefix
-# Difficulty: Easy
-# Language: Python
-# Runtime: 0 ms
-# Memory: 19.3 MB
-# Link: https://leetcode.com/problems/longest-common-prefix/
-
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         if not strs:

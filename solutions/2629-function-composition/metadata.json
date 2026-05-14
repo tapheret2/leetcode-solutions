@@ -1,0 +1,17 @@
+{
+  "difficulty": "Easy",
+  "frontendId": "2629",
+  "language": "JavaScript",
+  "leetcodeUrl": "https://leetcode.com/problems/function-composition/",
+  "memory": "55.5 MB",
+  "rawFrontendId": "2629",
+  "runtime": "51 ms",
+  "status": "Accepted",
+  "submissionId": "1991165155",
+  "submissionUrl": "https://leetcode.com/submissions/detail/1991165155/",
+  "submittedAt": "2026-04-29T16:26:18+00:00",
+  "syncedAt": "2026-05-14T04:46:49.109851+00:00",
+  "title": "Function Composition",
+  "titleSlug": "function-composition",
+  "topicTags": []
+}

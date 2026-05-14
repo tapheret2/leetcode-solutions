@@ -1,0 +1,22 @@
+{
+  "difficulty": "Easy",
+  "frontendId": "0197",
+  "language": "MySQL",
+  "leetcodeUrl": "https://leetcode.com/problems/rising-temperature/",
+  "memory": "0B",
+  "rawFrontendId": "197",
+  "runtime": "393 ms",
+  "status": "Accepted",
+  "submissionId": "1991163579",
+  "submissionUrl": "https://leetcode.com/submissions/detail/1991163579/",
+  "submittedAt": "2026-04-29T16:24:24+00:00",
+  "syncedAt": "2026-05-14T04:46:46.353294+00:00",
+  "title": "Rising Temperature",
+  "titleSlug": "rising-temperature",
+  "topicTags": [
+    {
+      "name": "Database",
+      "slug": "database"
+    }
+  ]
+}

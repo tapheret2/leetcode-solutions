@@ -1,10 +1,3 @@
-// Problem: 3637. Trionic Array I
-// Difficulty: Easy
-// Language: C++
-// Runtime: 2 ms
-// Memory: 27.6 MB
-// Link: https://leetcode.com/problems/trionic-array-i/
-
 class Solution {
 public:
     bool isTrionic(vector<int>& nums) {

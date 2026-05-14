@@ -1,0 +1,146 @@
+{
+  "lastSyncAt": "2026-05-14T04:46:52.575564+00:00",
+  "syncedSubmissions": {
+    "1991148398": {
+      "frontendId": "0197",
+      "language": "MySQL",
+      "submittedAt": "2026-04-29T16:05:07+00:00",
+      "syncedAt": "2026-05-14T04:46:45.555404+00:00",
+      "titleSlug": "rising-temperature"
+    },
+    "1991162447": {
+      "frontendId": "0511",
+      "language": "MySQL",
+      "submittedAt": "2026-04-29T16:23:02+00:00",
+      "syncedAt": "2026-05-14T04:46:45.908353+00:00",
+      "titleSlug": "game-play-analysis-i"
+    },
+    "1991163579": {
+      "frontendId": "0197",
+      "language": "MySQL",
+      "submittedAt": "2026-04-29T16:24:24+00:00",
+      "syncedAt": "2026-05-14T04:46:46.353294+00:00",
+      "titleSlug": "rising-temperature"
+    },
+    "1991163736": {
+      "frontendId": "0196",
+      "language": "MySQL",
+      "submittedAt": "2026-04-29T16:24:35+00:00",
+      "syncedAt": "2026-05-14T04:46:46.666350+00:00",
+      "titleSlug": "delete-duplicate-emails"
+    },
+    "1991163841": {
+      "frontendId": "0183",
+      "language": "MySQL",
+      "submittedAt": "2026-04-29T16:24:43+00:00",
+      "syncedAt": "2026-05-14T04:46:47.020106+00:00",
+      "titleSlug": "customers-who-never-order"
+    },
+    "1991163973": {
+      "frontendId": "0182",
+      "language": "MySQL",
+      "submittedAt": "2026-04-29T16:24:54+00:00",
+      "syncedAt": "2026-05-14T04:46:47.387256+00:00",
+      "titleSlug": "duplicate-emails"
+    },
+    "1991164430": {
+      "frontendId": "0181",
+      "language": "MySQL",
+      "submittedAt": "2026-04-29T16:25:27+00:00",
+      "syncedAt": "2026-05-14T04:46:47.785137+00:00",
+      "titleSlug": "employees-earning-more-than-their-managers"
+    },
+    "1991164666": {
+      "frontendId": "0175",
+      "language": "MS SQL Server",
+      "submittedAt": "2026-04-29T16:25:43+00:00",
+      "syncedAt": "2026-05-14T04:46:48.139403+00:00",
+      "titleSlug": "combine-two-tables"
+    },
+    "1991164816": {
+      "frontendId": "3637",
+      "language": "C++",
+      "submittedAt": "2026-04-29T16:25:53+00:00",
+      "syncedAt": "2026-05-14T04:46:48.464174+00:00",
+      "titleSlug": "trionic-array-i"
+    },
+    "1991164963": {
+      "frontendId": "2634",
+      "language": "JavaScript",
+      "submittedAt": "2026-04-29T16:26:04+00:00",
+      "syncedAt": "2026-05-14T04:46:48.776094+00:00",
+      "titleSlug": "filter-elements-from-array"
+    },
+    "1991165155": {
+      "frontendId": "2629",
+      "language": "JavaScript",
+      "submittedAt": "2026-04-29T16:26:18+00:00",
+      "syncedAt": "2026-05-14T04:46:49.109851+00:00",
+      "titleSlug": "function-composition"
+    },
+    "1991165634": {
+      "frontendId": "2626",
+      "language": "JavaScript",
+      "submittedAt": "2026-04-29T16:26:54+00:00",
+      "syncedAt": "2026-05-14T04:46:49.443618+00:00",
+      "titleSlug": "array-reduce-transformation"
+    },
+    "1991165918": {
+      "frontendId": "2620",
+      "language": "JavaScript",
+      "submittedAt": "2026-04-29T16:27:15+00:00",
+      "syncedAt": "2026-05-14T04:46:49.797365+00:00",
+      "titleSlug": "counter"
+    },
+    "1991166019": {
+      "frontendId": "2619",
+      "language": "JavaScript",
+      "submittedAt": "2026-04-29T16:27:23+00:00",
+      "syncedAt": "2026-05-14T04:46:50.144606+00:00",
+      "titleSlug": "array-prototype-last"
+    },
+    "1991166151": {
+      "frontendId": "2621",
+      "language": "JavaScript",
+      "submittedAt": "2026-04-29T16:27:34+00:00",
+      "syncedAt": "2026-05-14T04:46:50.610023+00:00",
+      "titleSlug": "sleep"
+    },
+    "1991168843": {
+      "frontendId": "0009",
+      "language": "JavaScript",
+      "submittedAt": "2026-04-29T16:31:05+00:00",
+      "syncedAt": "2026-05-14T04:46:50.959318+00:00",
+      "titleSlug": "palindrome-number"
+    },
+    "1991168963": {
+      "frontendId": "0013",
+      "language": "JavaScript",
+      "submittedAt": "2026-04-29T16:31:13+00:00",
+      "syncedAt": "2026-05-14T04:46:51.353359+00:00",
+      "titleSlug": "roman-to-integer"
+    },
+    "1991169557": {
+      "frontendId": "0014",
+      "language": "Python3",
+      "submittedAt": "2026-04-29T16:31:58+00:00",
+      "syncedAt": "2026-05-14T04:46:51.864808+00:00",
+      "titleSlug": "longest-common-prefix"
+    },
+    "1991169769": {
+      "frontendId": "0020",
+      "language": "Python3",
+      "submittedAt": "2026-04-29T16:32:13+00:00",
+      "syncedAt": "2026-05-14T04:46:52.186395+00:00",
+      "titleSlug": "valid-parentheses"
+    },
+    "2002611995": {
+      "frontendId": "0577",
+      "language": "MySQL",
+      "submittedAt": "2026-05-14T04:01:50+00:00",
+      "syncedAt": "2026-05-14T04:46:52.569761+00:00",
+      "titleSlug": "employee-bonus"
+    }
+  },
+  "version": 1
+}

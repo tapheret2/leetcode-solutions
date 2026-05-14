@@ -1,10 +1,3 @@
--- Problem: 197. Rising Temperature
--- Difficulty: Easy
--- Language: MySQL
--- Runtime: 393 ms
--- Memory: 0B
--- Link: https://leetcode.com/problems/rising-temperature/
-
 SELECT w1.id
 FROM Weather w1
 JOIN Weather w2 

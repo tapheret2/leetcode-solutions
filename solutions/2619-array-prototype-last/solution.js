@@ -1,10 +1,3 @@
-// Problem: 2619. Array Prototype Last
-// Difficulty: Easy
-// Language: JavaScript
-// Runtime: 46 ms
-// Memory: 52.5 MB
-// Link: https://leetcode.com/problems/array-prototype-last/
-
 /**
  * @return {null|boolean|number|string|Array|Object}
  */

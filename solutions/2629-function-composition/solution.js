@@ -1,10 +1,3 @@
-// Problem: 2629. Function Composition
-// Difficulty: Easy
-// Language: JavaScript
-// Runtime: 51 ms
-// Memory: 55.5 MB
-// Link: https://leetcode.com/problems/function-composition/
-
 /**
  * @param {Function[]} functions
  * @return {Function}
